@@ -114,3 +114,6 @@ From now on just sit back, enjoy the course and `git checkout THE_NEXT_COMMIT` f
 * add the same info for more types of drinks that you might be interested in
 * use a function to abstract away most of the 'dirty maths' and string manipulation
 * use the `sleep` command in the `time` library to wait 2 seconds before giving the answer
+
+### Stage 3
+* use two different files instead of one to solve the task of `calculus.py`. Put the function that calculates in one file and call it from the other. That way you hide the complexity even more!
