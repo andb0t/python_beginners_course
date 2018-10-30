@@ -113,3 +113,4 @@ From now on just sit back, enjoy the course and `git checkout THE_NEXT_COMMIT` f
 * count the money in your wallet and use it as input from the command line. Then calculate how many beers you can buy until it's all used up.
 * add the same info for more types of drinks that you might be interested in
 * use a function to abstract away most of the 'dirty maths' and string manipulation
+* use the `sleep` command in the `time` library to wait 2 seconds before giving the answer
