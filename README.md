@@ -75,8 +75,9 @@ You have now everything you need to develop a little program!
 Now that we got it all set-up, we can start our first try! You just downloaded the final version of the course code. But we walk before we run, so we go back in history to the very beginning. Execute
 ```shell
 git log  # shows all the history consisting of single steps, called 'commits'
+# alternative: git log --oneline  # this only shows the short version of hash number and comment
 ```
-and search for a commit with the description 'Stage 0'. Copy its hash number. Then use the time machine to go back!
+and search for a commit with the description 'Stage 0' by pressing arrow-down, enter, page-down. Quit the view with `q` to return to the normal command line. Copy the hash number of this commit. Then use the time machine to go back:
 ```shell
 git checkout HASH  # HASH has to be replaced with the number associated with that commit.
 ```
