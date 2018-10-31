@@ -29,7 +29,7 @@ First, we install python and git. Follow those steps:
   * download and install git for windows
   * Done! Now test if it worked fine. Open a terminal and enter
   ```shell
-  python --version
+  python --version  # if that doesn't work use `py --version` instead
   # Python 3.6.6  (that's not a command but a comment, to show you what answer to expect)
   ```
 * Linux:
